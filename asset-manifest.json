@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IMBDmovieApp/static/css/main.333bc3a5.css",
+    "main.js": "/IMBDmovieApp/static/js/main.6c9f3d7e.js",
+    "index.html": "/IMBDmovieApp/index.html",
+    "main.333bc3a5.css.map": "/IMBDmovieApp/static/css/main.333bc3a5.css.map",
+    "main.6c9f3d7e.js.map": "/IMBDmovieApp/static/js/main.6c9f3d7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.333bc3a5.css",
+    "static/js/main.6c9f3d7e.js"
+  ]
+}
